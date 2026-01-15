@@ -1,5 +1,4 @@
-# المرحلة الأولى: بناء المشروع (Build Stage)
-# نستخدم صورة Node.js لتحويل كود React إلى ملفات HTML/CSS
+
 FROM node:18-alpine as build
 
 # تحديد مجلد العمل داخل الحاوية
