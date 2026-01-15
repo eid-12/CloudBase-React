@@ -6,16 +6,14 @@
 
 ## 📖 About The Project
 
-**CloudBase** is a modern, responsive landing page designed for a cloud hosting service provider. This project transforms the original Figma design into a functional web application using **React.js**, focusing on component reusability and pixel-perfect implementation.
-
-🎨 **Original Design:** [View on Figma](https://www.figma.com/design/Tl3uzP9NlgVg6psXabJBjr/CloudBase-Landing-Page-Design)
+**CloudBase** is a modern, responsive landing page designed for a cloud hosting service provider. This project is built using **React.js** to deliver a high-performance web application, focusing on clean UI/UX and component reusability.
 
 > **Note:** This project is part of my software engineering portfolio.
 
 ## ✨ Key Features
 
 * **Responsive Design:** Fully compatible with Desktop, Tablet, and Mobile devices.
-* **Modern UI:** Clean interface with smooth transitions matching the Figma design.
+* **Modern UI:** Clean interface with smooth transitions.
 * **React Components:** Modular architecture (Vite + React) for better performance.
 * **Fast Loading:** Optimized assets and code splitting.
 
@@ -23,7 +21,6 @@
 
 * **Frontend:** [React.js](https://reactjs.org/) + [Vite](https://vitejs.dev/)
 * **Styling:** CSS3 / Modern CSS
-* **Design:** Figma
 
 ## 🚀 Getting Started
 
@@ -37,7 +34,7 @@ Make sure you have **Node.js** installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Life-12/CloudBase-React.git](https://github.com/Life-12/CloudBase-React.git)
+    git clone [https://github.com/eid-12/CloudBase-React.git](https://github.com/eid-12/CloudBase-React.git)
     ```
 
 2.  **Navigate to the project directory:**
@@ -55,7 +52,7 @@ Make sure you have **Node.js** installed on your machine.
     npm run dev
     ```
 
-The app should open automatically in your browser (usually at `http://localhost:5173` for Vite projects).
+The app should open automatically in your browser (usually at `http://localhost:5173`).
 
 ## 📸 Screenshots
 
@@ -67,4 +64,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed by [Life-12](https://github.com/Life-12)**
+**Developed by [Eid](https://github.com/eid-12)**
