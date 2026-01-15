@@ -23,7 +23,7 @@ COPY --from=build /app/dist /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # فتح المنفذ 80
-EXPOSE 80
+EXPOSE 3000
 
 # أمر التشغيل
 CMD ["nginx", "-g", "daemon off;"]
