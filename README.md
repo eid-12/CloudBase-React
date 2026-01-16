@@ -4,6 +4,11 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react)
 
+## 🔗 Live Demo
+🚀 **Check out the live website here:** [http://portal.cloudbase.website/](http://portal.cloudbase.website/)
+
+---
+
 ## 📖 About The Project
 
 **CloudBase** is a modern, responsive landing page designed for a cloud hosting service provider. This project is built using **React.js** to deliver a high-performance web application, focusing on clean UI/UX and component reusability.
@@ -53,10 +58,6 @@ Make sure you have **Node.js** installed on your machine.
     ```
 
 The app should open automatically in your browser (usually at `http://localhost:5173`).
-
-## 📸 Screenshots
-
-*(Add your project screenshots here)*
 
 ## 📄 License
 
